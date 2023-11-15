@@ -1,8 +1,6 @@
-# PySpark ML 'Hello World'
+# House Prediction Using ML
 
 ![Houses side by side](assets/4454911539_b118315672_c.jpg)
-
-License [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) license: by [ell brown](https://www.flickr.com/photos/39415781@N06)
 
 A simple repository to apply Linear Regression using [PySpark](https://spark.apache.org/docs/latest/api/python/index.html) to predict the houses' price. 
 
